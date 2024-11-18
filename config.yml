@@ -1,0 +1,47 @@
+baseURL: https://gfw-resource.github.io/
+title: 一些電影資源
+theme: [PaperMod]
+
+mainsections: ["posts"]
+
+languageCode: en
+defaultTheme: dark
+disableThemeToggle: true
+hideMeta: true
+
+enableRobotsTXT: true 
+hasCJKLanguage: true 
+paginate: 20  # 每页显示的文章数
+
+menu:
+  main:
+    - name: 資源列表
+      url: resource/
+      weight: 15
+    - name: 下載技術
+      url: tech/
+      weight: 25
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  description: "collecting resources for some censored movies"
+  author: everyone
+
+  ShowShareButtons: false
+  ShowReadingTime: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowFullTextinRSS: true
+  hideFooter: true
+
+
+
