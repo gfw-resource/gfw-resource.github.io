@@ -8,6 +8,7 @@ hideMeta: true
 
 - 寻找林昭的灵魂 . 胡杰 . 2004 - [YouTube](https://www.youtube.com/watch?v=757iH0EhbYw)
 - 克拉玛依 . 徐辛 . 2010 - [YouTube](https://www.youtube.com/playlist?list=PL_tg7rKQ3B74fiwQb5CUdFXDItf0_9B-H)
+- 海南之后 / 我是流氓燕 . 王男栿 . 2016 - [YouTube](https://www.youtube.com/watch?v=OMhsLmv8fA4)
 
 ## 香港
 
