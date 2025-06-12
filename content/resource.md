@@ -9,6 +9,9 @@ hideMeta: true
 - 寻找林昭的灵魂 . 胡杰 . 2004 - [YouTube](https://www.youtube.com/watch?v=757iH0EhbYw)
 - 克拉玛依 . 徐辛 . 2010 - [YouTube](https://www.youtube.com/playlist?list=PL_tg7rKQ3B74fiwQb5CUdFXDItf0_9B-H)
 - 海南之后 / 我是流氓燕 . 王男栿 . 2016 - [YouTube](https://www.youtube.com/watch?v=OMhsLmv8fA4)
+- 一部未完成的电影 . 娄烨 . 2020
+  
+  3.1 GB 1080p 内封中字 - [BitTorrent](866e69628cf9c154f932efab285d58cd4f31e18b.torrent) - [Manget](magnet:?xt=urn:btih:866e69628cf9c154f932efab285d58cd4f31e18b&dn=An.Unfinished.Film.2024.1080p.CATCHPLAY%2B.WEB-DL.AAC2.0.H.264-CHDWEB.mkv&tr=http%3A%2F%2Ftracker.sbsub.com%3A2710%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2F34.89.91.10%3A6969%2Fannounce&tr=http%3A%2F%2F34.89.91.10%3A80%2Fannounce&tr=http%3A%2F%2Fbt.poletracker.org%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.trackerlist.xyz%3A80%2Fannounce&tr=http%3A%2F%2Fseeders-paradise.org%3A80%2Fannounce&tr=http%3A%2F%2Fshare.hkg-fansub.info%3A80%2Fannounce.php&tr=http%3A%2F%2Ftracker.bt-hash.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.bz%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.corpscorp.online%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.ipv6tracker.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fwww.torrentsnipe.info%3A2701%2Fannounce&tr=udp%3A%2F%2Fisk.richardsw.club%3A6969%2Fannounce&tr=udp%3A%2F%2Fns-1.x-fins.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.free-tracker.ga%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.dump.cl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce)
 
 ## 香港
 
